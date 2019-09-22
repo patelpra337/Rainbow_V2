@@ -42,7 +42,7 @@
         <!--Color Detail View Controller-->
         <scene sceneID="4ko-nj-UxK">
             <objects>
-                <viewController id="Ut2-7Q-kmM" customClass="ColorDetailViewController" customModule="Rainbow_V2" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Ut2-7Q-kmM" customClass="ColorDetailViewController" customModule="Rainbow_V2" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Jo9-8K-Txu">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -71,7 +71,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="44z-aS-0eE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1.4492753623188408" y="220.98214285714286"/>
+            <point key="canvasLocation" x="114" y="221"/>
         </scene>
     </scenes>
 </document>
